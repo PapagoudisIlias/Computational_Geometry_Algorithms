@@ -8,7 +8,6 @@
 #include"Classes_And_Functions.h"
 
 
-
 using namespace cimg_library;
 
 
